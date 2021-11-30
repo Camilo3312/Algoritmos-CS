@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Camilo\\Desktop\\Sena 4to trimestre\\C#\\Algoritmos diarios\\Algoritmo 1\\Algoritmo 1.csproj": {}
+    "C:\\Users\\Camilo\\Desktop\\Sena 4to trimestre\\C#\\Algoritmos diarios\\Facil\\Facil\\Facil\\Facil.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Camilo\\Desktop\\Sena 4to trimestre\\C#\\Algoritmos diarios\\Algoritmo 1\\Algoritmo 1.csproj": {
+    "C:\\Users\\Camilo\\Desktop\\Sena 4to trimestre\\C#\\Algoritmos diarios\\Facil\\Facil\\Facil\\Facil.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Camilo\\Desktop\\Sena 4to trimestre\\C#\\Algoritmos diarios\\Algoritmo 1\\Algoritmo 1.csproj",
-        "projectName": "Algoritmo 1",
-        "projectPath": "C:\\Users\\Camilo\\Desktop\\Sena 4to trimestre\\C#\\Algoritmos diarios\\Algoritmo 1\\Algoritmo 1.csproj",
+        "projectUniqueName": "C:\\Users\\Camilo\\Desktop\\Sena 4to trimestre\\C#\\Algoritmos diarios\\Facil\\Facil\\Facil\\Facil.csproj",
+        "projectName": "Facil",
+        "projectPath": "C:\\Users\\Camilo\\Desktop\\Sena 4to trimestre\\C#\\Algoritmos diarios\\Facil\\Facil\\Facil\\Facil.csproj",
         "packagesPath": "C:\\Users\\Camilo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Camilo\\Desktop\\Sena 4to trimestre\\C#\\Algoritmos diarios\\Algoritmo 1\\obj\\",
+        "outputPath": "C:\\Users\\Camilo\\Desktop\\Sena 4to trimestre\\C#\\Algoritmos diarios\\Facil\\Facil\\Facil\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Camilo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
